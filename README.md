@@ -49,7 +49,7 @@ README.md
 
 Clona el repositorio:
 
-git clone https://github.com/tuusuario/ediwin-parser.git
+git clone https://github.com/tsuspe/ediwin-parser.git
 cd ediwin-parser
 
 
@@ -101,4 +101,5 @@ Arquitectura modular
 ❤️ Creado con mucho amor por:
 
 Aitor Susperregui
+
 @elvasco.x

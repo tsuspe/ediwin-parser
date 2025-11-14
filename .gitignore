@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# PDF files (confidencial EDIWIN)
+input/*.pdf
+input/*
+
+# Excel exports
+output/*
+*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
